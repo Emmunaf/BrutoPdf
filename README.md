@@ -1,5 +1,5 @@
 # BrutoPdf
-Just a python class for pdf cracking
+Just a python class for pdf password cracking
 
 # TODOs
 - Wordlist usage
