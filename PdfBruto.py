@@ -146,4 +146,4 @@ class PdfBruto:
             sys.exit(1)
 
 
-test = PdfBruto("test1.pdf", 5, "ad", 18)
+#test = PdfBruto("test.pdf", 5, "ad", 18)
